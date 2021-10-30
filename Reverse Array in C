@@ -28,3 +28,12 @@ int main()
 
   return 0;
 }
+
+
+
+Enter the number of elements in array
+3
+Enter array elements
+1 4 6
+The array after reversal:
+6 4 1
